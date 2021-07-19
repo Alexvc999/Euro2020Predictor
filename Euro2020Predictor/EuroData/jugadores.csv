@@ -1,0 +1,623 @@
+squad;number;name;surname;position;overall
+Germany;1;Manuel;Neuer;POR;89
+Germany;2;Antonio;Rudiger;DEF;81
+Germany;3;Marcel;Halstenberg;DEF;82
+Germany;4;Matthias ;Ginter;DEF;82
+Germany;5;Mats;Hummels;DEF;86
+Germany;6;Joshua;Kimmich;MED;88
+Germany;7;Kai;Havertz;MED;85
+Germany;8;Toni;Kroos;MED;88
+Germany;9;Kevin;Volland;DEL;81
+Germany;10;Serge;Gnabry;DEL;85
+Germany;11;Timo;Werner;DEL;85
+Germany;12;Bernd;Leno;POR;85
+Germany;13;Jonas ;Hoffman;MED;77
+Germany;14;Jamal;Musiala;DEL;74
+Germany;15;Niklas ;Sule;DEF;84
+Germany;16;Lukas;Klostermann;DEF;80
+Germany;17;Florian;Neuhaus;MED;79
+Germany;18;Leon;Goretzka;MED;84
+Germany;19;Leroy;Sane;DEL;85
+Germany;20;Robin;Gosens;DEF;82
+Germany;21;Ilkay;Gundogan;MED;83
+Germany;22;Kevin;Trapp;POR;83
+Germany;23;Emre;Can;MED;82
+Germany;24;Robin;Koch;DEF;76
+Germany;25;Thomas;Muller;DEL;86
+Germany;26;Christian;Gunter;DEF;78
+Austria;1;Alexander;Schlager;POR;75
+Austria;2;Andreas;Ulmer;DEF;75
+Austria;3;Aleksandar;Dragovic;DEF;75
+Austria;4;Martin;Hinteregger;DEF;80
+Austria;5;Stefan;Posch;DEF;75
+Austria;6;Stefan;Ilsanker;MED;74
+Austria;7;Marko;Arnautovic;DEL;82
+Austria;8;David ;Alaba;DEF;84
+Austria;9;Marcel ;Sabitzer;MED;83
+Austria;10;Florian;Grillitsch;MED;79
+Austria;11;Michael;Gregoritsch;DEL;74
+Austria;12;Pavao;Pervan;POR;74
+Austria;13;Daniel ;Bachmann;POR;69
+Austria;14;Julian;Baumgartlinger;MED;77
+Austria;15;Phillip;Lienhart;DEF;72
+Austria;16;Cristopher;Trimmel;DEF;75
+Austria;17;Louis;Schaub;MED;73
+Austria;18;Alessandro;Schopf;MED;72
+Austria;19;Cristoph;Baumgartner;MED;75
+Austria;20;Karim;Onisiwo;DEL;74
+Austria;21;Stefan;Lainer;DEF;80
+Austria;22;Valentino;Lazaro;MED;79
+Austria;23;Xavier;Schlager;MED;76
+Austria;24;Konrad;Laimer;MED;82
+Austria;25;Sasa;Kalajdzic;DEL;76
+Austria;26;Marco;Fridl;DEF;70
+Belgium;1;Thibaut;Courtois;POR;88
+Belgium;2;Toby;Alderweireld;DEF;85
+Belgium;3;Thomas ;Vermaelen;DEF;76
+Belgium;4;Dedryck;Boyata;DEF;77
+Belgium;5;Jan;Vertonghen;DEF;83
+Belgium;6;Axel;Witsel;MED;84
+Belgium;7;Kevin;De Bruyne;MED;91
+Belgium;8;Youri;Tielemans;MED;81
+Belgium;9;Romelu;Lukaku;DEL;85
+Belgium;10;Eden;Hazard;DEL;88
+Belgium;11;Yannick;Carrasco;MED;82
+Belgium;12;Simon;Mignolet;POR;81
+Belgium;13;Matz;Sels;POR;79
+Belgium;14;Dries;Mertens;DEL;85
+Belgium;15;Thomas;Meunier;DEF;81
+Belgium;16;Thorgan ;Hazard;MED;83
+Belgium;17;Hans;Vanaken;MED;78
+Belgium;18;Jason;Denayer;DEF;79
+Belgium;19;Leander;Dendoncker;MED;78
+Belgium;20;Christian;Benteke;DEL;72
+Belgium;21;Timothy;Castagne;DEF;77
+Belgium;22;Nacer;Chadli;MED;78
+Belgium;23;Michy;Batsuayi;DEL;78
+Belgium;24;Leandro;Trossard;DEL;78
+Belgium;25;Jeremy;Doku;DEL;71
+Belgium;26;Dannis;Praet;MED;76
+Croatia;1;Dominik;Livakovic;POR;80
+Croatia;2;Sime;Vrsaljko;DEF;80
+Croatia;3;Borna;Barisic;DEF;73
+Croatia;4;Ivan;Perisic;DEL;82
+Croatia;5;Duje;Caleta-Car;DEF;78
+Croatia;6;Dejan;Lovren;DEF;80
+Croatia;7;Josip;Brekalo;DEL;76
+Croatia;8;Mateo;Kovacic;MED;83
+Croatia;9;Andrej;Kramaric;DEL;82
+Croatia;10;Luka;Modric;MED;87
+Croatia;11;Marcelo;Brozovic;MED;84
+Croatia;12;Lovre;Kalinic;POR;75
+Croatia;13;Nikola;Vlasic;MED;80
+Croatia;14;Ante;Budimir;DEL;76
+Croatia;15;Mario;Pasalic;MED;77
+Croatia;16;Mile;Skoric;DEF;65
+Croatia;17;Ante;Rebic;DEL;79
+Croatia;18;Mislav;Orsic;DEL;76
+Croatia;19;Milan;Badelj;MED;76
+Croatia;20;Bruno;Petkovic;DEL;77
+Croatia;21;Domagoj;Vida;DEF;78
+Croatia;22;Josip;Juranovic;DEF;68
+Croatia;23;Simon;Sluga;POR;66
+Croatia;24;Domagoj;Bradaric;DEF;75
+Croatia;25;Josko;Gvardiol;DEF;67
+Croatia;26;Luka;Ivanusec;MED;71
+Denmark;1;Kasper;Schmeichel;POR;84
+Denmark;2;Joachim;Andersen;DEF;76
+Denmark;3;Jannik;Vestergaard;DEF;77
+Denmark;4;Simon;Kjaer;DEF;80
+Denmark;5;Joakim;Maehle;DEF;76
+Denmark;6;Andreas;Christensen;DEF;79
+Denmark;7;Robert;Skov;DEL;75
+Denmark;8;Thomas;Delaney;MED;81
+Denmark;9;Martin;Braithwaite;DEL;76
+Denmark;10;Christian;Eriksen;MED;85
+Denmark;11;Andreas;Skov;DEL;72
+Denmark;12;Kasper;Dolberg;DEL;79
+Denmark;13;Mathias;Jorgensen;DEF;74
+Denmark;14;Mikkel;Damsgaard;DEL;73
+Denmark;15;Christian;Norgaard;MED;73
+Denmark;16;Jonas ;Lossl;POR;73
+Denmark;17;Jens;Larsen;MED;75
+Denmark;18;Daniel ;Wass;DEF;80
+Denmark;19;Jonas ;Wind;DEL;72
+Denmark;20;Yussuf;Poulsen;DEL;78
+Denmark;21;Andreas;Cornelius;DEL;75
+Denmark;22;Frederik;Ronnow;POR;76
+Denmark;23;Pierre-Emile;Hojberg;MED;80
+Denmark;24;Mathias;Jensen;MED;72
+Denmark;25;Anders;Christiansen;MED;75
+Denmark;26;Nicolai;Boilesen;DEF;71
+Scotland;1;David ;Marshall;POR;72
+Scotland;2;Stephen;O´Donell;DEF;69
+Scotland;3;Andy;Robertson;DEF;87
+Scotland;4;Scott;McTominay;MED;79
+Scotland;5;Grant;Hanley;DEF;70
+Scotland;6;Kieran;Tierney;DEF;78
+Scotland;7;John;McGinn;MED;76
+Scotland;8;Callum;McGregor;MED;77
+Scotland;9;Lyndon;Dykes;DEL;69
+Scotland;10;Che;Adams;DEL;74
+Scotland;11;Ryan;Christie;MED;75
+Scotland;12;Craig;Gordon;POR;72
+Scotland;13;Greg;Taylor;LI;72
+Scotland;14;John;Fleck;MED;77
+Scotland;15;Declan;Gallagher;DEF;68
+Scotland;16;Liam;Cooper;DEF;73
+Scotland;17;Stuart;Armstrong;MED;76
+Scotland;18;David ;Turnbull;MED;69
+Scotland;19;Kevin;Nisbet;DEL;64
+Scotland;20;Ryan;Fraser;DEL;79
+Scotland;21;John;McLaughlin;POR;68
+Scotland;22;Nathan;Patterson;DEF;61
+Scotland;23;Billy;Gilmour;MED;71
+Scotland;24;Jack;Hendry;DEF;66
+Scotland;25;James;Forest;MED;76
+Scotland;26;Scott;McKenna;DEF;70
+Slovakia;1;Martin;Dubravka;POR;83
+Slovakia;2;Peter;Pekarik;DEF;75
+Slovakia;3;Denis;Vavro;DEF;71
+Slovakia;4;Martin;Valjent;DEF;84
+Slovakia;5;Lubomir;Satka;DEF;69
+Slovakia;6;Jan;Gregus;MED;71
+Slovakia;7;Vladimir;Weiss;MED;65
+Slovakia;8;Ondrej;Duda;MED;75
+Slovakia;9;Robert;Bozenik;DEL;70
+Slovakia;10;Tomas;Suslov;MED;59
+Slovakia;11;Laszlo;Benes;MED;73
+Slovakia;12;Dusan;Kuciak;POR;71
+Slovakia;13;Patrik;Hrosovsky;MED;84
+Slovakia;14;Milan;Skriniar;DEF;85
+Slovakia;15;Thomas;Hubocan;DEF;65
+Slovakia;16;David ;Hancko;DEF;70
+Slovakia;17;Marek;Hamsik;MED;81
+Slovakia;18;Lukas;Haraslin;MED;71
+Slovakia;19;Juraj;Kucka;MED;77
+Slovakia;20;Robert;Mak;MED;65
+Slovakia;21;Michal;Duris;DEL;65
+Slovakia;22;Stanislav;Lobotka;MED;78
+Slovakia;23;Marek;Rodak;POR;84
+Slovakia;24;Martin;Koscelnik;DEF;65
+Slovakia;25;Jakub;Hromada;MED;69
+Slovakia;26;Ivan;Schranz;DEL;65
+Spain;1;David ;De Gea;POR;86
+Spain;2;Cesar;Azpilicueta;DEF;84
+Spain;3;Diego ;Llorente;DEF;76
+Spain;4;Pau ;Torres;DEF;78
+Spain;5;Sergio ;Busquets;MED;87
+Spain;6;Marcos ;Llorente;DEF;82
+Spain;7;Álvaro ;Morata;DEL;82
+Spain;8;Koke;;MED;85
+Spain;9;Gerard ;Moreno;DEL;83
+Spain;10;Thiago;Alcantara;MED;85
+Spain;11;Ferrán ;Torres;DEL;81
+Spain;12;Eric ;García;DEF;72
+Spain;13;Robert ;Sánchez;POR;70
+Spain;14;Jose Luis;Gayá;DEF;83
+Spain;16;Rodri;;MED;85
+Spain;17;Fabián ;Ruiz;MED;82
+Spain;18;Jordi ;Alba;DEF;86
+Spain;19;Dani ;Olmo;MED;79
+Spain;20;Adama ;Traoré;DEL;79
+Spain;21;Mikel;Oyarzábal;DEL;84
+Spain;22;Pablo;Sarabia;DEL;81
+Spain;23;Unai ;Simón;POR;80
+Spain;24;Aymeric;Laporte;DEF;87
+Spain;26;Pedri;;MED;72
+Finland;1;Lukas;Hradecky;POR;83
+Finland;2;Paulus;Arajuuri;DEF;68
+Finland;3;Daniel ;O´Shaughnessy;DEF;63
+Finland;4;Joona;Toivio;DEF;66
+Finland;5;Leo;Vaisanen;DEF;65
+Finland;6;Glen;Kamara;MED;69
+Finland;7;Robert ;Taylor;MED;66
+Finland;8;Robin;Lod;MED;70
+Finland;9;Frederik;Jensen;MED;71
+Finland;10;Teemu;Pukki;DEL;76
+Finland;11;Rasmus;Schuller;MED;71
+Finland;12;Jere;Joronen;POR;75
+Finland;13;Pyry;Soiri;DEF;65
+Finland;14;Tim;Sparv;MED;65
+Finland;15;Sauli;Vaisanen;DEF;67
+Finland;16;Thomas;Lam;DEF;68
+Finland;17;Nikolai;Alho;DEF;65
+Finland;18;Jere;Uronen;DEF;74
+Finland;19;Joni;Kauko;MED;64
+Finland;20;Joel;Pohjanpalo;DEL;72
+Finland;21;Lassi;Lappalainen;DEL;69
+Finland;22;Jukka;Raitala;DEF;67
+Finland;23;Anssi;Jaakola;POR;67
+Finland;24;Onni;Valakari;MED;63
+Finland;25;Robert;Ivanov;DEF;62
+Finland;26;Marcus;Forss;DEL;64
+France;1;Hugo;Lloris;POR;87
+France;2;Benjamin;Pavard;DEF;81
+France;3;Presnel;Kimpembe;DEF;81
+France;4;Rafael;Varane;DEF;86
+France;5;Clement;Lenglet;DEF;85
+France;6;Paul;Pogba;MED;87
+France;7;Antoine;Griezmann;DEL;87
+France;8;Thomas ;Lemar;DEL;81
+France;9;Olivier;Giroud;DEL;79
+France;10;Kylian;Mbappe;DEL;90
+France;11;Ousmane;Dembele;DEL;83
+France;12;Corentin;Tolisso;MED;80
+France;13;Ngolo;Kante;MED;88
+France;14;Adrien;Rabiot;MED;81
+France;15;Kurt;Zouma;DEF;80
+France;16;Steve;Mandanda;POR;83
+France;17;Moussa;Sissoko;MED;79
+France;18;Lucas;Digne;DEF;84
+France;19;Karim;Benzema;DEL;89
+France;20;Kingsley;Coman;DEL;84
+France;21;Lucas;Hernandez;DEF;82
+France;22;Wissam;Ben Yedder;DEL;84
+France;23;Mike;Maignan;POR;82
+France;24;Leo;Dubois;DEF;79
+France;25;Jules;Kounde;DEF;79
+France;26;Marcus;Thuram;DEL;80
+Wales;1;Wayne;Hennessey;POR;75
+Wales;2;Christian;Gunter;DEF;66
+Wales;3;Neco;Williams;DEF;67
+Wales;4;Ben;Davies;DEF;80
+Wales;5;Tom;Lockyer;DEF;69
+Wales;6;Joe;Rodon;DEF;70
+Wales;7;Joe;Allen;MED;72
+Wales;8;Harry;Wilson;MED;77
+Wales;9;Tyler;Roberts;DEL;70
+Wales;10;Aaron;Ramsey;MED;82
+Wales;11;Gareth;Bale;DEL;83
+Wales;12;Danny;Ward;POR;74
+Wales;13;Kieffer;Moore;DEL;69
+Wales;14;Connor;Roberts;DEF;71
+Wales;15;Ethan;Ampadu;MED;67
+Wales;16;Joe;Morrell;MED;67
+Wales;17;Rhys;Norrington;DEF;64
+Wales;18;Jonny;Williams;MED;68
+Wales;19;David ;Brooks;MED;76
+Wales;20;Daniel ;James;DEL;77
+Wales;21;Adam;Davies;POR;70
+Wales;22;Chris;Mepham;DEF;73
+Wales;23;Dylan;Levitt;MED;63
+Wales;24;Ben;Cabango;DEF;62
+Wales;25;Rubin;Colwill;MED;53
+Wales;26;Matt;Smith;MED;65
+Hungary;1;Peter;Gulacsi;POR;85
+Hungary;2;Adam;Lang;DEF;68
+Hungary;3;Akos;Kecskes;DEF;65
+Hungary;4;Attila;Szalai;DEF;72
+Hungary;5;Attila;Fiola;DEF;68
+Hungary;6;Willi;Orban;DEF;79
+Hungary;7;Nego;Loic;MED;73
+Hungary;8;Adam;Nagy;MED;72
+Hungary;9;Adam;Szalai;DEL;71
+Hungary;10;Tamas;Cseri;MED;65
+Hungary;11;Holender ;Filip;MED;67
+Hungary;12;Denes;Dibusz;POR;73
+Hungary;13;Andras;Schafer;MED;65
+Hungary;14;Gergo;Lovrencsics;DEF;72
+Hungary;15;Laszlo;Kleinheisler;MED;70
+Hungary;16;Daniel ;Gazdag;MED;65
+Hungary;17;Roland;Varga;DEL;65
+Hungary;18;David ;Siger;MED;70
+Hungary;19;Kevin;Varga;DEL;69
+Hungary;20;Roland;Sallai;DEL;74
+Hungary;21;Endre;Botka;DEF;69
+Hungary;22;Adam;Bogdan;POR;65
+Hungary;23;Nemanja;Nikolics;DEL;71
+Hungary;24;Szabolcs;Schon;DEL;65
+Hungary;25;Janos;Hahn;DEL;65
+Hungary;26;Bendeguz;Bolla;DEF;65
+England;1;Jordan;Pickford;POR;81
+England;2;Kyle;Walker;DEF;85
+England;3;Luke;Shaw;DEF;81
+England;4;Declan;Rice;MED;79
+England;5;John;Stones;DEF;80
+England;6;Harry;Maguire;DEF;82
+England;7;Jack;Grealish;DEL;80
+England;8;Jordan;Henderson;MED;86
+England;9;Harry;Kane;DEL;88
+England;10;Raheem;Sterling;DEL;88
+England;11;Marcus;Rashford;DEL;85
+England;12;Kieran;Trippier;DEF;83
+England;13;Dean;Henderson;POR;80
+England;14;Kalvin;Phillips;MED;76
+England;15;Tyrone;Mings;DEF;75
+England;16;Connor;Coady;DEF;79
+England;17;Jadon;Sancho;DEL;87
+England;18;Calvert;Lewin;DEL;79
+England;19;Mason;Mount;MED;80
+England;20;Phil;Foden;DEL;79
+England;21;Ben;Chilwell;DEF;81
+England;22;Ben;White;DEF;75
+England;23;Sam;Johnstone;POR;75
+England;24;Reece;James;DEF;77
+England;25;Bukayo;Saka;DEL;75
+England;26;Jude;Bellingham;MED;69
+Italy;1;Salvatore;Sirigu;POR;84
+Italy;2;Giovanni;Di Lorenzo;DEF;76
+Italy;3;Giorgio;Chiellini;DEF;87
+Italy;4;Leonardo;Spinazzola;DEF;78
+Italy;5;Manuel;Locatelli;MED;78
+Italy;6;Marco;Verratti;MED;86
+Italy;7;Lorenzo;Pellegrini;MED;79
+Italy;8;Jorginho;;MED;83
+Italy;9;Andrea;Belotti;DEL;80
+Italy;10;Lorenzo;Insigne;DEL;85
+Italy;11;Domenico;Berardi;DEL;80
+Italy;12;Stefano;Sensi;MED;78
+Italy;13;Emerson;;DEF;79
+Italy;14;Federico;Chiesa;DEL;78
+Italy;15;Francesco;Acerbi;DEF;83
+Italy;16;Bryan;Cristante;MED;78
+Italy;17;Ciro;Immobile;DEL;87
+Italy;18;Nicolo;Barella;MED;80
+Italy;19;Leonardo;Bonucci;DEL;85
+Italy;20;Federico;Bernardeschi;DEL;80
+Italy;21;Gianluigi;Donnaruma;POR;85
+Italy;22;Giacomo;Raspadori;DEL;64
+Italy;23;Alessandro;Bastoni;DEF;75
+Italy;24;Alessandro;Florenzi;DEF;81
+Italy;25;Rafael;Toloi;DEF;77
+Italy;26;Alex;Meret;POR;78
+North Macedonia;1;Stole;Dimitrievski;POR;71
+North Macedonia;2;Egzon;Bejtulai;DEF;65
+North Macedonia;3;Gjoko;Zajkov;DEF;63
+North Macedonia;4;Kire;Ristevski;DEF;65
+North Macedonia;5;Arijan;Ademi;MED;76
+North Macedonia;6;Visar;Musliu;DEF;65
+North Macedonia;7;Ivan;Trickovski;DEL;65
+North Macedonia;8;Ezgjan;Alioski;DEF;73
+North Macedonia;9;Aleksandar;Trajkovski;DEL;69
+North Macedonia;10;Goran;Pandev;DEL;72
+North Macedonia;11;Ferhan;Hasani;MED;67
+North Macedonia;12;Risto;Jankov;POR;65
+North Macedonia;13;Stefan;Ristovski;DEF;77
+North Macedonia;14;Darko;Velkovski;DEF;65
+North Macedonia;15;Tihomir;Kostadinov;MED;65
+North Macedonia;16;Boban;Nikolov;MED;63
+North Macedonia;17;Enis;Bardhi;MED;79
+North Macedonia;18;Vlatko;Stojanovski;DEL;63
+North Macedonia;19;Krste;Velkovski;DEL;65
+North Macedonia;20;Stefan;Spirovski;MED;65
+North Macedonia;21;Eljif;Elmas;MED;72
+North Macedonia;22;Damjan;Siskovski;POR;65
+North Macedonia;23;Marjan;Radeski;MED;65
+North Macedonia;24;Daniel ;Avramovski;MED;67
+North Macedonia;25;Darko;Churlinov;MED;64
+North Macedonia;26;Milan;Ristovski;DEL;65
+Netherlands;1;Maarten;Stekelenburg;POR;72
+Netherlands;2;Joel;Veltman;DEF;77
+Netherlands;3;Matthijs;De Ligt;DEF;85
+Netherlands;4;Nathan;Ake;DEF;79
+Netherlands;5;Owen;Wijndal;DEF;77
+Netherlands;6;Stefan;De Vrij;DEF;84
+Netherlands;7;Steven;Berghuis;DEL;81
+Netherlands;8;Georginio;Wijnaldum;MED;85
+Netherlands;9;Luuk;De Jong;DEL;80
+Netherlands;10;Memphis;Depay;DEL;85
+Netherlands;11;Quincy;Promes;DEL;82
+Netherlands;12;Patrick;Van Aanholt;DEF;77
+Netherlands;13;Tim;Krul;POR;75
+Netherlands;14;Davy;Klaasen;MED;77
+Netherlands;15;Marten;De Roon;MED;81
+Netherlands;16;Ryan;Gravenberch;MED;70
+Netherlands;17;Daley;Blind;DEF;82
+Netherlands;18;Donyell;Malen;DEL;78
+Netherlands;19;Wout;Weghorst;DEL;81
+Netherlands;20;Donny;Van de Beek;MED;83
+Netherlands;21;Frenkie ;De Jong;MED;85
+Netherlands;22;Denzel;Dumfries;DEF;79
+Netherlands;23;Marco;Bizot;POR;79
+Netherlands;24;Teun;Koopmeiners;MED;78
+Netherlands;25;Jurrien;Timber;DEF;72
+Netherlands;26;Cody;Gakpo;DEL;74
+Poland;1;Wojciech;Szczesny;POR;87
+Poland;2;Kamil;Piatkowski;DEF;65
+Poland;3;Pawel;Dawidowickz;DEF;68
+Poland;4;Tomasz;Kedziora;DEF;76
+Poland;5;Jan;Bednarek;DEF;77
+Poland;6;Kacper;Kozlowski;MED;60
+Poland;7;Arkadiusz;Milik;DEL;81
+Poland;8;Karol;Linetty;MED;74
+Poland;9;Robert;Lewandowski;DEL;91
+Poland;10;Grzegorz;Krychowiak;MED;80
+Poland;11;Karol;Swiderski;DEL;71
+Poland;12;Lukasz;Skorupski;POR;76
+Poland;13;Maciej;Rybus;DEL;74
+Poland;14;Mateuz;Klich;MED;73
+Poland;15;Kamil;Glik;DEF;75
+Poland;16;Jakub;Moder;MED;69
+Poland;17;Przemyslaw;Placheta;MED;69
+Poland;18;Bartosz;Bereszynski;DEF;72
+Poland;19;Przemyslaw;Frankowski;MED;71
+Poland;20;Piotr;Zielinski;MED;80
+Poland;21;Kamil;Jozwiak;MED;71
+Poland;22;Lukasz;Fabianski;POR;81
+Poland;23;Dawid;Kownacki;DEL;71
+Poland;24;Jakub;Swierczok;DEL;69
+Poland;25;Michal;Helik;DEF;69
+Poland;26;Tymoteusz;Puchacz;DEF;67
+Portugal;1;Rui;Patricio;POR;84
+Portugal;2;Nelson;Semedo;DEF;83
+Portugal;3;Pepe;;DEF;81
+Portugal;4;Ruben;Dias;DEF;81
+Portugal;5;Raphael;Guerreiro;DEF;84
+Portugal;6;Jose;Fonte;DEF;78
+Portugal;7;Cristiano;Ronaldo;DEL;92
+Portugal;8;Joao;Moutinho;MED;83
+Portugal;9;Andre;Silva;DEL;79
+Portugal;10;Bernardo;Silva;DEL;87
+Portugal;11;Bruno;Fernandes;MED;87
+Portugal;12;Anthony;Lopes;POR;83
+Portugal;13;Danilo;Pereira;MED;82
+Portugal;14;William;Carvalho;MED;80
+Portugal;15;Rafael;Silva;DEL;83
+Portugal;16;Renato;Sanches;MED;78
+Portugal;17;Gonçalo;Guedes;DEL;81
+Portugal;18;Ruben;Neves;MED;82
+Portugal;19;Pedro;Gonçalves;DEL;76
+Portugal;20;Joao;Cancelo;DEF;83
+Portugal;21;Diogo;Jota;DEL;80
+Portugal;22;Rui;Silva;POR;79
+Portugal;23;Joao;Felix;DEL;81
+Portugal;24;Sergio;Oliveira;MED;78
+Portugal;25;Nuno;Mendes;DEF;78
+Portugal;26;Joao;Palhinha;MED;78
+Czech Republic;1;Tomas;Vaclik;POR;82
+Czech Republic;2;Pavel;Kaderabek;DEF;80
+Czech Republic;3;Ondrej;Celustka;DEF;70
+Czech Republic;4;Jakub;Braber;DEF;65
+Czech Republic;5;Vladimir;Coufal;DEF;78
+Czech Republic;6;Tomas;Kalas;DEF;71
+Czech Republic;7;Antonin;Barak;MED;75
+Czech Republic;8;Vladimir;Darida;MED;77
+Czech Republic;9;Tomas;Holes;MED;73
+Czech Republic;10;Patrik;Schik;DEL;78
+Czech Republic;11;Michael;Krmencik;DEL;73
+Czech Republic;12;Lukas;Masopust;MED;75
+Czech Republic;13;Petr;Sevcik;MED;76
+Czech Republic;14;Jakub;Jankto;MED;74
+Czech Republic;15;Tomas;Soucek;MED;81
+Czech Republic;16;Ales;Mandous;POR;65
+Czech Republic;17;David ;Zima;DEF;70
+Czech Republic;18;Jan;Boril;DEF;78
+Czech Republic;19;Adam;Hlozek;MED;74
+Czech Republic;20;Matej;Vydra;DEL;73
+Czech Republic;21;Alex;Kral;MED;74
+Czech Republic;22;Ales;Mateju;DEF;70
+Czech Republic;23;Jiri;Pavlenka;POR;82
+Czech Republic;24;Tomas;Pekhart;DEL;67
+Czech Republic;25;Jakub;Pesek;MED;65
+Czech Republic;26;Michal;Sadilek;MED;72
+Russia;1;Anton;Shunin;POR;76
+Russia;2;Mario;Fernandes;DEF;82
+Russia;3;Igor;Diveev;DEF;69
+Russia;4;Vyacheslav;Karavaev;DEF;74
+Russia;5;Andrey;Semenov;DEF;72
+Russia;6;Denis;Cherysev;DEL;77
+Russia;7;Magomed;Ozdoev;MED;77
+Russia;8;Dimitri;Barinov;MED;75
+Russia;9;Aleksandr;Sobolev;DEL;74
+Russia;10;Anton;Zabolotnyi;DEL;70
+Russia;11;Roman;Zobnin;MED;78
+Russia;12;Yuri;Dyupin;POR;75
+Russia;13;Fedor;Kudryashov;DEF;73
+Russia;14;Georgiy;Dzhikiya;DEF;77
+Russia;15;Aleksey;Miranchuk;MED;79
+Russia;16;Matvey;Safonov;POR;65
+Russia;17;Aleksandr;Golovin;MED;79
+Russia;18;Yuri;Zhirkov;DEF;76
+Russia;19;Rifat;Zhemaletdinov;MED;72
+Russia;20;Aleksey;Ionov;DEL;73
+Russia;21;Daniil;Fomin;MED;72
+Russia;22;Artem;Dzyuba;DEL;79
+Russia;23;Daler;Kuzyaev;MED;75
+Russia;24;Andrey;Mostovoy;DEL;69
+Russia;25;Denis;Makarov;MED;65
+Russia;26;Maksim;Mukhin;MED;62
+Sweden;1;Robin;Olsen;POR;78
+Sweden;2;Mikael;Lustig;DEF;70
+Sweden;3;Victor;Lindelof;DEF;80
+Sweden;4;Andreas;Granqvist;DEF;72
+Sweden;5;Pierre;Bengtsson;DEF;73
+Sweden;6;Ludwig;Augustinsson;DEF;76
+Sweden;7;Sebastian;Larsson;MED;73
+Sweden;8;Albin;Ekdal;MED;75
+Sweden;9;Marcus;Berg;DEL;75
+Sweden;10;Emil;Forsberg;DEL;79
+Sweden;11;Alexander;Isak;DEL;79
+Sweden;12;Karl-Johan;Johnsson;POR;76
+Sweden;13;Gustav;Svensson;MED;74
+Sweden;14;Filip;Helander;DEF;72
+Sweden;15;Ken;Sema;MED;73
+Sweden;16;Emil;Krafth;DEF;74
+Sweden;17;Viktor;Claesson;DEL;76
+Sweden;18;Pontus;Jansson;DEF;75
+Sweden;19;Mattias;Svanberg;MED;68
+Sweden;20;Kristoffer;Olsson;MED;74
+Sweden;21;Dejan;Kulusevski;DEL;77
+Sweden;22;Robin;Quaison;MED;76
+Sweden;23;Kristoffer;Nordfeldt;POR;72
+Sweden;24;Marcus;Danielson;DEF;73
+Sweden;25;Jordan;Larsson;DEL;71
+Sweden;26;Jens;Cajuste;MED;67
+Switzerland;1;Yann;Sommer;POR;86
+Switzerland;2;Kevin;Mbabu;DEF;79
+Switzerland;3;Silvan;Widmer;DEF;76
+Switzerland;4;Nico;Elvedi;DEF;78
+Switzerland;5;Manuel;Akanji;DEF;78
+Switzerland;6;Denis;Zakaria;MED;83
+Switzerland;7;Breel;Embolo;DEL;78
+Switzerland;8;Remo;Freuler;MED;78
+Switzerland;9;Haris;Seferovic;DEL;75
+Switzerland;10;Granit;Xhaka;MED;80
+Switzerland;11;Ruben;Vargas;DEL;74
+Switzerland;12;Yvon;Mvogo;POR;76
+Switzerland;13;Ricardo;Rodriguez;DEF;78
+Switzerland;14;Steven;Zuber;MED;74
+Switzerland;15;Djibril;Sow;MED;74
+Switzerland;16;Christian;Fassnacht;MED;75
+Switzerland;17;Loris;Benito;DEF;74
+Switzerland;18;Admir;Mehmedi;MED;76
+Switzerland;19;Mario;Gavranovic;DEL;68
+Switzerland;20;Edimilson;Fernandes;MED;70
+Switzerland;21;Jonas;Omlin;POR;77
+Switzerland;22;Fabian;Schar;DEF;78
+Switzerland;23;Xherdan;Shaqiri;DEL;81
+Switzerland;24;Becir;Omeragic;DEF;60
+Switzerland;25;Eray;Comert;DEF;70
+Switzerland;26;Jordan;Lotomba;DEF;68
+Turkey;1;Mert;Gunok;POR;77
+Turkey;2;Zeki;Celik;DEF;77
+Turkey;3;Merih;Demiral;DEF;76
+Turkey;4;Caglar;Soyuncu;DEF;80
+Turkey;5;Okay;Yokuslu;MED;77
+Turkey;6;Ozan;Tufan;MED;72
+Turkey;7;Cengiz;Under;DEL;78
+Turkey;8;Dorukhan;Tokoz;MED;73
+Turkey;9;Kenan;Karaman;DEL;73
+Turkey;10;Hakan;Calhanoglu;MED;79
+Turkey;11;Yusuf;Yazici;MED;76
+Turkey;12;Altay;Bayindir;POR;73
+Turkey;13;Umut;Meras;DEF;69
+Turkey;14;Taylan;Antalyali;MED;65
+Turkey;15;Ozan;Kabak;DEF;77
+Turkey;16;Enes;Unal;DEL;75
+Turkey;17;Burak;Yilmaz;DEL;78
+Turkey;18;Ridvan;Yilmaz;DEF;63
+Turkey;19;Orkun;Kokcu;MED;75
+Turkey;20;Abdullkadir;Omur;MED;75
+Turkey;21;Irfan;Kahveci;MED;76
+Turkey;22;Kaan;Ayhan;DEF;75
+Turkey;23;Ugurcan;Cakir;POR;77
+Turkey;24;Kerem;Akturkoglu;DEL;68
+Turkey;25;Mert;Muldur;DEF;71
+Turkey;26;Halil;Dervisoglu;DEL;69
+Ukraine;1;Georgiy;Bushchan;POR;72
+Ukraine;2;Eduard;Sobol;DEF;74
+Ukraine;3;Georgiy;Sudakov;MED;60
+Ukraine;4;Sergiy;Kryvtsov;DEF;74
+Ukraine;5;Sergiy;Sydorchuk;MED;75
+Ukraine;6;Taras;Stepanenko;MED;79
+Ukraine;7;Andriy;Yarmolemko;DEL;77
+Ukraine;8;Ruslan;Malinovskyi;MED;79
+Ukraine;9;Roman;Yaremchuk;DEL;75
+Ukraine;10;Mykola;Shaparenko;MED;72
+Ukraine;11;Marlos;;DEL;81
+Ukraine;12;Andriy;Pyatov;POR;76
+Ukraine;13;Ilya;Zabarnyi;DEF;68
+Ukraine;14;Yevgen;Makarenko;MED;70
+Ukraine;15;Viktor;Tsygankov;DEL;80
+Ukraine;16;Vitaliy;Mykolenko;DEF;76
+Ukraine;17;Oleksandr;Zynchenko;DEF;80
+Ukraine;18;Roman;Bezus;MED;73
+Ukraine;19;Artem;Besedin;DEL;70
+Ukraine;20;Oleksandr;Zubkov;DEL;65
+Ukraine;21;Oleksandr;Karavaev;DEL;72
+Ukraine;22;Mykola;Matvienko;DEF;73
+Ukraine;23;Anatoliy;Trubin;POR;63
+Ukraine;24;Oleksandr;Tymchyk;DEF;66
+Ukraine;25;Denys;Popov;DEF;73
+Ukraine;26;Artem;Dovbyk;DEL;65
